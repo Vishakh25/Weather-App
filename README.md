@@ -1,3 +1,15 @@
+# Getting started
+First start the development server
+`npm run dev`
+
+After that open `http://localhost:3000` in your web browser to the results
+
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+
+This project uses next/font to automatically optimize and load Inter, a custom Google Font.
+
+
+
 # Features
 1. Current Weather Conditions: Provides access to current weather conditions, including temperature, precipitation, wind speed, UV index, and more.
 
